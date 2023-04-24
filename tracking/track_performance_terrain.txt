@@ -1,0 +1,6 @@
+Mean Terrain	Revisit interval/Target detected/Focal lengh	Target detected	First time all target detected	Focal lengh	Cells coverd	Performance																	
+	Revisit interval	Target detected	First time all target detected	Focal lengh	Cells coverd	Performance																	
+0.5	39.2762617713703	9.80786666666666	292.966666666666	20.4185666666666	531.8382	65.4871946974628																	
+1	43.7478235585269	9.7896	335.266666666666	19.6980833333333	499.473733333333	64.4688689334727																	
+1.5	44.2617453066398	9.79723333333333	275.8	18.9390083333333	463.8055	61.4535250488958																	
+2	46.4582706281499	9.60943333333333	310.392857142857	18.2985666666666	426.484433333333	56.4251243558366																	
